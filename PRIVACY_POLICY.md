@@ -34,6 +34,7 @@ This policy may be updated when features, legal requirements, or third-party ser
 
 ## Contact
 
-Before publishing, replace this paragraph with the developer’s public support email address.
+Developer: Muhammad Faysal Khan  
+Email: [muhammadfaysal.khan7@gmail.com](mailto:muhammadfaysal.khan7@gmail.com)
 
 © 2026 Math Mind. All rights reserved.
