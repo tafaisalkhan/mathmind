@@ -1,0 +1,46 @@
+# Godot generated cache
+.godot/
+**/.godot/
+
+# Build outputs and logs
+build/
+android/build/.gradle/
+android/build/build/
+**/android/build/.gradle/
+**/android/build/build/
+export.log
+*.apk
+*.aab
+
+# Private signing material
+*.jks
+*.keystore
+key.properties
+keystore-credentials.txt
+
+# Excluded game assets: textures/images, sounds, and JSON
+assets/generated/
+assets/sound/
+assets/data/*.json
+**/assets/generated/
+**/assets/sound/
+**/assets/data/*.json
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.mp3
+*.wav
+*.ogg
+*.json
+*.png.import
+*.jpg.import
+*.jpeg.import
+*.webp.import
+*.mp3.import
+*.wav.import
+*.ogg.import
+
+# OS/editor files
+.DS_Store
+Thumbs.db
